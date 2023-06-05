@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C0AF7FC3-6D94-44EB-83C8-9A63156F9D7E}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SelfEdu PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SelfEdu/Spider.cs">
+    <Files>
+      <File FileName="SelfEdu/Program.cs" Line="32" Column="39" />
+      <File FileName="SelfEdu/Spider.cs" Line="11" Column="8" />
+      <File FileName="SelfEdu/Fly.cs" Line="6" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SelfEdu" expanded="True">
+            <Node name="SelfEdu" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Spider.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
